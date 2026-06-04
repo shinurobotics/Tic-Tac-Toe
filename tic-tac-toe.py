@@ -19,3 +19,4 @@ def drawField():
         else:
             print("-----")
 drawField()
+stops at 14:33
