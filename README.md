@@ -1,30 +1,45 @@
 # Tic-Tac-Toe Game 🎮
-A simple Tic-Tac-Toe game built in Python as part of my programming learning journey.
+A Python-based Tic-Tac-Toe game developed as part of my programming learning journey.
 
 # About
-This project creates a Tic-Tac-Toe game board using Python loops, functions, and conditional statements. It is designed to help me understand problem-solving, game logic, and structured programming.
+This project implements a terminal-based Tic-Tac-Toe game using Python. Players take turns entering row and column positions to place their symbols (X or O) on the board. The project focuses on applying programming fundamentals to build an interactive game.
 
 # Features
-- Draws a 3x3 Tic-Tac-Toe board
-- Uses functions for cleaner code
-- Uses loops to generate the game field
-- Beginner-friendly Python project
-- Foundation for adding player moves and win detection
+- 3×3 Tic-Tac-Toe board
+- Two-player gameplay
+- Player turn switching (X and O)
+- User input for row and column positions
+- Board stored using nested lists
+- Board generation using loops and functions
+- Terminal-based interface
 
 # Skills Demonstrated
 - Python Fundamentals
 - Functions
 - Nested Loops
 - Conditional Statements
+- Lists and Nested Lists
+- User Input Handling
+- Game Logic Development
 - Problem Solving
-- Algorithmic Thinking
+
+# Current Progress
+- ✅ Board generation completed
+- ✅ Player move system implemented
+- ✅ Turn switching between players
+- 🔄 Win detection in progress
+- 🔄 Draw detection in progress
 
 # Future Improvements
-- Player X and O turns
 - Win detection system
-- Draw detection
-- Score tracking
+- Draw detection system
+- Input validation
 - Replay option
+- Score tracking
+- Computer AI opponent
+
+# Technologies Used
+- Python 3
 
 # Author
 Visnu
